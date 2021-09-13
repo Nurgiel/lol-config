@@ -1,0 +1,61 @@
+GeoInfo:
+    data:
+        city: "hoersholm"
+        country: "dnk"
+        region: "84"
+    schemaVersion: 1
+lol-audio:
+    data:
+        ambienceMusicEnabled: true
+        ambientSfxEnabled: false
+        championSelectionMusicEnabled: true
+        loginMusicEnabled: true
+        masterSoundEnabled: true
+        masterVolume: 40
+        musicEnabled: false
+        sfxVolume: 35
+        voiceVolume: 17.500000
+    schemaVersion: 5
+lol-clash:
+    data:
+        simpleStateFlagIds:
+        - "registration_open_tournament_3321"
+        - "registration_open_tournament_2681"
+        - "registration_open_tournament_3361"
+        - "registration_open_tournament_2721"
+        - "lock_in_open_tournament_2721_phase_2821"
+        - "registration_open_tournament_3401"
+        - "lock_in_open_tournament_3361_phase_3481"
+        - "lock_in_open_tournament_3381_phase_3501"
+        - "registration_open_tournament_2761"
+    schemaVersion: 1
+lol-home:
+    data:
+        useTFTOverride: false
+    schemaVersion: 0
+lol-parties:
+    data:
+        permanentHideAutofillModal: true
+    schemaVersion: 1
+lol-premade-voice:
+    data:
+        currentCaptureDeviceHandle: "Default System Device"
+        inputVolume: 50
+        vadSensitivity: 50
+    schemaVersion: 1
+lol-replays:
+    data:
+        dontShowEogUsageTip: true
+    schemaVersion: 1
+lol-skins-viewer:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiLTA2YzFhcFdEVGtCVGR6OGdyMzZCUSIsInN1YiI6ImM3MmQyNTliLWNlZTktNWE3Ni05ODQ0LTM0MDU5NGY2NzdjNyIsImNvdW50cnkiOiJkbmsiLCJjb3VudHJ5X2F0IjoxNTc4MDg4NTgwMDAwLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3sidWlkIjoyMzY5NTY1NTQ0NjI0OTYwLCJjdWlkIjoyMzY5NTY1NTQ0NjI0OTYwLCJ1bmFtZSI6Ik51cmdpZWxmIiwiY3BpZCI6IkVVVzEiLCJwdHJpZCI6bnVsbCwicGlkIjoiRVVXMSIsInN0YXRlIjoiRU5BQkxFRCJ9XSwibm9uY2UiOiJ3MzJyNEVidEhCY3FTMUhGckt5NHRRIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwicGxheWVyX2xvY2FsZSI6ImVuIiwiZXhwIjoxNjMwMDA5MzM0LCJpYXQiOjE2Mjk5MjI5MzQsImFjY3QiOnsiZ2FtZV9uYW1lIjoiTnVyZ2llbGYiLCJ0YWdfbGluZSI6IkVVVyJ9LCJqdGkiOiJtNEs0cHFHekdXMCIsImxvZ2luX2NvdW50cnkiOiJkbmsifQ.AEfXfiaCGvmrabsUGf_fYuUv-NSZ6v33vA8i3OMMznIWZmw_HBKNHrIsjtDf2LbVMvY6X559aFHE82ki2UKFOIq2lgXi3JH9w4hiMWr_QQpRpe21bgWrYL_mAdYlSJW5Dq6hIiT32dYoSVIBGjd8m-ijOtnq-qWCDFdyAzNsmkY"
+        lastVisitTime: 1629404599777
+        visitedSkinList: []
+    schemaVersion: 1
+lol-user-experience:
+    data:
+        hasBeenPromptedForPotatoMode: true
+        lastKnownMachineSpec: 5
+    schemaVersion: 2

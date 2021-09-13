@@ -1,0 +1,85 @@
+career-stats-settings:
+    data:
+        initialVisited: true
+        welcomedSeason: 11
+    schemaVersion: 1
+champ-select:
+    data:
+        skins:
+            145: 145001
+            2: 2000
+        spells:
+            450:
+            - 7
+            - 4
+    schemaVersion: 1
+clash-tutorial:
+    data:
+        initialized: true
+        version: 1
+    schemaVersion: 1
+lol-champ-select:
+    data:
+        reportAndMutingTooltipShown: true
+    schemaVersion: 0
+lol-clash:
+    data:
+        clash-start-modal-seen: true
+        lftPlayerToggleTooltipSeen: true
+    schemaVersion: 1
+lol-collection-champions:
+    data:
+        groupingDropdownKey: "allChampions"
+        lastVisitTime: 1631556931785
+        sortingDropdownKey: "firstLetterAscending"
+        unownedFilter: "none"
+    schemaVersion: 1
+lol-general:
+    data:
+        uploadCrashReports: true
+    schemaVersion: 0
+lol-leagues:
+    data:
+        hasSeenFlexRestrictionModal: true
+        last-split-start-modal: 11.300000
+    schemaVersion: 1
+lol-notifications:
+    data:
+        rgmNotificationTimestamp: 1631556892715
+    schemaVersion: 1
+lol-npe-tutorial-path:
+    data:
+        hasSeenTutorialPath: false
+        hasSkippedTutorialPath: false
+        shouldSeeNewPlayerExperience: false
+    schemaVersion: 1
+lol-parties:
+    data:
+        hasSeenOpenPartyFirstExperience: true
+        hasSeenOpenPartyTooltip: true
+    schemaVersion: 1
+lol-player-behavior:
+    data:
+        codeOfConductAccepted: true
+    schemaVersion: 0
+lol-premade-voice:
+    data:
+        autoJoin: true
+        inputMode: "voiceActivity"
+        muteOnConnect: false
+        pushToTalkKey: "[<Unbound>]"
+        showFirstExperienceInGame: true
+        showFirstExperienceInLCU: false
+    schemaVersion: 1
+lol-profiles:
+    data:
+        ranked-reference-modal-login-seen-for-season: 11
+    schemaVersion: 0
+lol-tft:
+    data:
+        previouslySeenSeasons: "TFT5_5_Series"
+    schemaVersion: 1
+lol-tutorial:
+    data:
+        championSelectRunesTooltipSeenCount: 3
+    schemaVersion: 1
