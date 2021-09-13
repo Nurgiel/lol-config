@@ -1203,8 +1203,16 @@
                     "name": "HUDEvents",
                     "settings": [
                         {
+                            "name": "evntHudMoveableSelect",
+                            "value": "[Button 1],[Shift][Button 1]"
+                        },
+                        {
                             "name": "evtHoldShowScoreBoard",
                             "value": "[Tab]"
+                        },
+                        {
+                            "name": "evtOnUIMouse1",
+                            "value": "[Button 1], [Shift][Button 1]"
                         },
                         {
                             "name": "evtToggleDeathRecapShowcase",
