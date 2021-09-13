@@ -2,35 +2,102 @@ page-settings:
     data:
         pages: []
         perShardPerkBooks:
-            eun1:
-                currentPageId: 1866516064
+            euw1:
+                currentPageId: 655728276
                 pages:
                 -   autoModifiedSelections: []
-                    current: true
-                    id: 1866516064
+                    current: false
+                    id: 597456673
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1631557198790
-                    name: "FC: Kai'Sa ARAM"
-                    order: 0
+                    lastModified: 1631355095007
+                    name: "Riven ARAM"
+                    order: 3
+                    primaryStyleId: 8000
+                    selectedPerkIds:
+                    - 8010
+                    - 9111
+                    - 9105
+                    - 8299
+                    - 8473
+                    - 8242
+                    - 5007
+                    - 5003
+                    - 5003
+                    subStyleId: 8400
+                -   autoModifiedSelections: []
+                    current: true
+                    id: 655728276
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isValid: true
+                    lastModified: 1631442991649
+                    name: "FC: Akshan Standard"
+                    order: 3
+                    primaryStyleId: 8000
+                    selectedPerkIds:
+                    - 8005
+                    - 8009
+                    - 9103
+                    - 8014
+                    - 8139
+                    - 8135
+                    - 5005
+                    - 5008
+                    - 5002
+                    subStyleId: 8100
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 738669710
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isValid: true
+                    lastModified: 1631360026206
+                    name: "Amumu"
+                    order: 3
+                    primaryStyleId: 8400
+                    selectedPerkIds:
+                    - 8439
+                    - 8463
+                    - 8429
+                    - 8451
+                    - 8126
+                    - 8106
+                    - 5007
+                    - 5002
+                    - 5003
+                    subStyleId: 8100
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 1287332780
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isValid: true
+                    lastModified: 1631382167192
+                    name: "Vayne HoB"
+                    order: 3
                     primaryStyleId: 8100
                     selectedPerkIds:
                     - 9923
-                    - 8139
+                    - 8143
                     - 8138
                     - 8135
-                    - 8009
                     - 9103
+                    - 9101
                     - 5005
                     - 5008
                     - 5002
                     subStyleId: 8000
         settings:
             gameplayPatchVersionSeen: "9.23"
-            gameplayUpdatedPerksSeen: []
+            gameplayUpdatedPerksSeen:
+            - 8358
             gridModeEnabled: false
-            showLongDescriptions: false
-            showPresetPages: true
+            showLongDescriptions: true
+            showPresetPages: false
     schemaVersion: 5

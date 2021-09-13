@@ -3,19 +3,19 @@ install:
         enabled: true
         type: "crashpad"
     game-settings:
-        accountId: 28641269
-        modified: false
-        timestamp: 1631558164815
+        accountId: 2369565544624960
+        modified: true
+        timestamp: 1631444874157
     gameflow-patcher-lock: null
     gameflow-process-info: null
     gameflow-spectate-reconnect-info: null
     globals:
         locale: "en_GB"
-        region: "EUNE"
+        region: "EUW"
     lcu-settings:
-        accountId: 28641269
+        accountId: 2369565544624960
         modified: false
-        timestamp: 1631557259283
+        timestamp: 1631443095706
     npe-splash:
         enableNewPlayerSplash: false
     patcher:
@@ -31,12 +31,12 @@ install:
             new_client_patcher: 0
             new_game_patcher: 0
     perks-settings:
-        accountId: 28641269
+        accountId: 2369565544624960
         modified: false
-        timestamp: 1631557234491
+        timestamp: 1631443010676
     riotclient-upgrade:
-        seq-success-count: 34
-        success-count: 34
+        seq-success-count: 35
+        success-count: 35
     rso-auth:
         install-identifier: "fad003a71a9bc94d8d9b6495cde15e68"
     telemetry:
